@@ -3,3 +3,14 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.container {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(53, 103, 86);
+    display: flex;
+    flex-direction: column;
+    width:100dvw;
+    height: 100dvh;
+    justify-content: center;
+    align-items: center;
+}
