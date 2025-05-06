@@ -1,4 +1,4 @@
-Checklist before 8:
+Checklist before 10:30:
 VS Code Setup
 Github Account Logged in
 Wakatime / Nau Time Logged in

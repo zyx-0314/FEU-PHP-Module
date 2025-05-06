@@ -54,4 +54,4 @@ foreach ($objectDaw as $key => $value) {
 echo "<h1>" . $objectDaw->name . "</h1>";
 ?>
 
-<a href="./pages/applyToHtml/index.php">Click mo to para lumipat sa next demo</a>
+<a href="week1/pages/applyToHtml/index.php">Click mo to para lumipat sa next demo</a>

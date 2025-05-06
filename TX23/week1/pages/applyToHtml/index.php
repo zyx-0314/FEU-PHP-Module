@@ -71,6 +71,12 @@ $ten = 10;
                 echo "<h4> Hi ka " . $i . "<br> </h4>";
             } ?>
         </div>
+
+        <div class="container">
+            <h4>
+                <?php echo "hi" ?>
+            </h4>
+        </div>
     </body>
 
 </html>

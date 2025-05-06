@@ -73,11 +73,11 @@ Other Tags:
 3. Highlight the code you wanna share or submit
 4. The `Camera Icon` can e used to save the image or `ctrl` + `c`
 
-## Adding Snippets
+## Adding  in HTML
 1. Using `ctrl` + `shift` + `p` in your keyboard a specific function search will appear at top with `>` inside.
     - dont delete the `>`
 2. Type `Snippets` and select `Snippets: Configure Snippets`.
-3. Select the `HTML`
+3. Select the language to add snippet
 4. Add your New Snippet:
 (Format)
 ```json
