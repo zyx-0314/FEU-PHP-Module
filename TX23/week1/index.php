@@ -1,4 +1,4 @@
-<?
+<?php
 // XXX Variable
 $price = 350;
 $dicount = 10;
